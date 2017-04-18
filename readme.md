@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ford152/Fidget.png?label=ready&title=Ready)](https://waffle.io/ford152/Fidget)
 1) Open a command prompt in the project's root directory (APM)
 
 2) Type: `npm install`
